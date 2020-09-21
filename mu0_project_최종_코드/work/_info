@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim/hw4/ex5/Mealy
+vmemory
+!s110 1573882519
+!i10b 1
+!s100 0<i51m2_mLoHok`iB:Ide2
+I1RBZ;>MH`3CU?ET?K`=<O2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/modelsim/mu0_project
+w1573805254
+Z2 8D:/modelsim/mu0_project/mu0_memory.v
+Z3 FD:/modelsim/mu0_project/mu0_memory.v
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1573882519.000000
+Z5 !s107 D:/modelsim/mu0_project/mu0_memory.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/mu0_project/mu0_memory.v|
+!s101 -O0
+!i113 1
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmu0_memory
+Z8 !s110 1575190025
+!i10b 1
+!s100 E360PCPBbBQ^YX?3gV_Rz0
+I3d4zM<OAbFGZd<W_=]5`R1
+R0
+R1
+w1575189927
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1575190025.000000
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+vmu0_process
+R8
+!i10b 1
+!s100 InjT6=b^Vkl:9H8<64iYO2
+I2TEI7XeVLo4Uk71jceKNI3
+R0
+R1
+w1575190006
+8D:/modelsim/mu0_project/mu0_process.v
+FD:/modelsim/mu0_project/mu0_process.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/modelsim/mu0_project/mu0_process.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/mu0_project/mu0_process.v|
+!s101 -O0
+!i113 1
+R7
+vmu0_tb
+R8
+!i10b 1
+!s100 5i3l1Pn1Pz_o]NTLMUY162
+I5md70dRVI0FLmE=m;dOM[2
+R0
+R1
+w1575189949
+8D:/modelsim/mu0_project/mu0_tb.v
+FD:/modelsim/mu0_project/mu0_tb.v
+L0 2
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/modelsim/mu0_project/mu0_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/mu0_project/mu0_tb.v|
+!s101 -O0
+!i113 1
+R7

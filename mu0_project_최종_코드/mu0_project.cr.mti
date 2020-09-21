@@ -1,0 +1,22 @@
+D:/modelsim/mu0_project/mu0_tb.v {1 {vlog -work work -stats=none D:/modelsim/mu0_project/mu0_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mu0_tb
+
+Top level modules:
+	mu0_tb
+
+} {} {}} D:/modelsim/mu0_project/mu0_process.v {1 {vlog -work work -stats=none D:/modelsim/mu0_project/mu0_process.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mu0_process
+
+Top level modules:
+	mu0_process
+
+} {} {}} D:/modelsim/mu0_project/mu0_memory.v {1 {vlog -work work -stats=none D:/modelsim/mu0_project/mu0_memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mu0_memory
+
+Top level modules:
+	mu0_memory
+
+} {} {}}
